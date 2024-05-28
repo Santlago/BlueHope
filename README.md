@@ -1,4 +1,6 @@
-![logo](imagens/image.png)
+<div style="text-align: center;">
+  <img src="imagens/image.png" alt="logo">
+</div>
 
 - [Descrição do Projeto](#descrição-do-projeto)
 - [Documentação da API](#documentação-da-api)
