@@ -1,6 +1,6 @@
-<div style="text-align: center;">
+<p align="center">
   <img src="imagens/image.png" alt="logo">
-</div>
+</p>
 
 - [Descrição do Projeto](#descrição-do-projeto)
 - [Documentação da API](#documentação-da-api)
