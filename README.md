@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="imagens/image.png" alt="logo">
-</p>
+[![logo](imagens/image.png)](https://blue-hope.vercel.app/)
 
 - [Descrição do Projeto](#descrição-do-projeto)
 - [Documentação da API](#documentação-da-api)
